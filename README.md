@@ -8,7 +8,8 @@ This soluction was written using Python 3
 
 # How to run the code ?
 
-just execute the main.py
+
+**just execute the main.py**
  
 In this case, the stack of boarding cards is a list of dict as variable "boarding_cards" into the main.py
 
