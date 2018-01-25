@@ -1,4 +1,4 @@
-# Trip Sort challenger
+# Trip Sort challenge
 
 ```
 Carlos Smaniotto - January - 2018 
