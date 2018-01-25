@@ -1,7 +1,7 @@
 # Trip Sort challenger
 
 ```
-Carlos Smaniotto - Janary - 2018 
+Carlos Smaniotto - January - 2018 
 ```
 
 This soluction was written using Python 3
